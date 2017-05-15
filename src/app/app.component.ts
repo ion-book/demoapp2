@@ -11,6 +11,8 @@ export class AppComponent {
     url: "https://www.ion-book.com"
   };
 
+  name:String = "";
+
   getValor():number{
     return 5;
   }

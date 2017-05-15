@@ -4,6 +4,12 @@
 <p>{{title.url}}</p>
 <h2> Sumar Valores: </h2>
 La Suma basica de {{1 + 1 + getValor()}}
+<br/>
 <img [src]="getImg()" alt="">
+<br/>
+<input type="text" [(ngModel)]="name"> 
+<p>El valor de mi nombre es: {{ name }}</p>
+<br/>
+
 <button (click)="onShow()">Evento</button>
 
