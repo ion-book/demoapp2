@@ -18,4 +18,8 @@ export class AppComponent {
   onShow():void{
     alert("Evento");
   }
+
+  getImg():any{
+    return "http://placehold.it/350x150";
+  }
 }
