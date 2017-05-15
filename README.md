@@ -1,6 +1,8 @@
 # Demoapp2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
+Clase de Plantillas.
+
+[Slides](https://docs.google.com/presentation/d/1FuWBaPmT1Q-3T_o-nKN9WXwRTlB3nue5hRPFdizvaQs/edit?usp=sharing)
 
 ## Development server
 

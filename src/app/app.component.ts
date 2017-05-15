@@ -10,4 +10,8 @@ export class AppComponent {
     name: "titulo",
     url: "https://www.ion-book.com"
   };
+
+  getValor():number{
+    return 5;
+  }
 }
