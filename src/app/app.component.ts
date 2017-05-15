@@ -14,4 +14,8 @@ export class AppComponent {
   getValor():number{
     return 5;
   }
+
+  onShow():void{
+    alert("Evento");
+  }
 }
